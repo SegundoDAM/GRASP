@@ -27,7 +27,8 @@ public class CohesionExample01 {
         for (int i = 0; i < numbers.length; i++) {
             sum += numbers[i];
         }
-        System.out.println("Sum: " + sum);
+        System.out.println("la suma de "+name+ "es: " + sum);
+        
     }
     
  
