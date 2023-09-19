@@ -1,4 +1,4 @@
-package ejercicioacoplamientomal16;
+package ejercicioacoplamiento16.bien;
 
 public class Persona {
 	private String nombre;
