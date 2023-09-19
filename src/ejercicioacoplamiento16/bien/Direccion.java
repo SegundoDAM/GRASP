@@ -1,6 +1,6 @@
 package ejercicioacoplamiento16.bien;
 
-public class Direccion {
+public class Direccion implements Addressable{
     private String calle;
     private String ciudad;
     private String estado;
@@ -13,6 +13,10 @@ public class Direccion {
         this.codigoPostal = codigoPostal;
     }
 
+    public String getDescription() {
+    	return getCalle() + ", " + getCiudad() + ", "
+				+ getEstado() + ", " + getCodigoPostal();
+    }
 	public String getCalle() {
 		return calle;
 	}
