@@ -18,7 +18,20 @@ public class Persona {
 
 	}
 
-//	public boolean isInSameStreet(Direccion direccion) {
-//		return direccion.getCalle().equals(this.direccion.getCalle());
-//	}
+	public boolean isInSameStreet(String calle) {
+		return address.isInTheSameStreet(calle);
+	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+

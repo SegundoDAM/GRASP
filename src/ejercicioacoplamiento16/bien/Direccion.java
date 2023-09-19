@@ -48,6 +48,11 @@ public class Direccion implements Addressable{
 	public void setCodigoPostal(String codigoPostal) {
 		this.codigoPostal = codigoPostal;
 	}
+
+	@Override
+	public boolean isInTheSameStreet(String calle) {
+		return getCalle().equals(calle);
+	}
 	
 
 }

@@ -3,7 +3,7 @@
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
   <class id="1" language="java" name="ejercicioacoplamiento16.bien.Persona" project="GRASP" 
     file="/GRASP/src/ejercicioacoplamiento16/bien/Persona.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="124" y="240"/>    
+    <position height="66" width="193" x="142" y="263"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="false"/>      
@@ -12,7 +12,7 @@
   </class>  
   <class id="2" language="java" name="ejercicioacoplamiento16.bien.Direccion" project="GRASP" 
     file="/GRASP/src/ejercicioacoplamiento16/bien/Direccion.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="790" y="241"/>    
+    <position height="66" width="193" x="481" y="265"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="false"/>      
@@ -21,7 +21,7 @@
   </class>  
   <interface id="3" language="java" name="ejercicioacoplamiento16.bien.Addressable" project="GRASP" 
     file="/GRASP/src/ejercicioacoplamiento16/bien/Addressable.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="493" y="242"/>    
+    <position height="66" width="193" x="350" y="94"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="false" package="false" protected="false" private="false" static="false"/>      
